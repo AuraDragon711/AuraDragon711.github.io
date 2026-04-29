@@ -22,5 +22,5 @@ website:
 
 format:
   html:
-    theme: [pulse, styles.scss]
+    theme: [pulse]
 

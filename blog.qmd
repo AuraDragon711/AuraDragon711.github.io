@@ -3,5 +3,6 @@ title: "Blog"
 listing:
     contents: posts
 editor: source
+type: table
 ---
 

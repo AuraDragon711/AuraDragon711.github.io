@@ -13,6 +13,8 @@ website:
         href: index.qmd
       - text: Peeved
         href: peeved.qmd
+      - text: Blog
+        href: blog.qmd
     tools: 
       - icon: github
         text: Github

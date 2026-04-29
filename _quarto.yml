@@ -11,6 +11,8 @@ website:
     right:
       - text: Home
         href: index.qmd
+      - text: Peeved
+        href: peeved.qmd
     tools: 
       - icon: github
         text: Github

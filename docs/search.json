@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "FAHHHH",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "A little bit about me and my life."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "FAHHHH",
-    "section": "Education",
-    "text": "Education\nReed College, Portland | Location | Sept 20XX - June 20XX"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "FAHHHH",
-    "section": "Experience",
-    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+    "text": "what the heck is happening\n\n\n\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "peeved.html",
@@ -42,10 +28,24 @@
     "text": "WHAT THE FUCK"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FAHHHH",
     "section": "",
-    "text": "what the heck is happening\n\n\n\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\nNo matching items"
+    "text": "A little bit about me and my life."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "FAHHHH",
+    "section": "Education",
+    "text": "Education\nReed College, Portland | Location | Sept 20XX - June 20XX"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "FAHHHH",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
   }
 ]

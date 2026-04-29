@@ -5,7 +5,7 @@ subtitle: "Data Scientist"
 image: profile.jpg
 image-alt: "Photo of a door partially open revealing a green landscape"
 about: # https://quarto.org/docs/websites/website-about.html
-  template: trestles
+  template: jolla
   links:
     - icon: github
       text: Github

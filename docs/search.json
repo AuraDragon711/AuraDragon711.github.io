@@ -19,5 +19,19 @@
     "title": "FAHHHH",
     "section": "Experience",
     "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "peeved.html",
+    "href": "peeved.html",
+    "title": "I’m Peeved",
+    "section": "",
+    "text": "making this website is very finnicky and annoying."
+  },
+  {
+    "objectID": "peeved.html#boop",
+    "href": "peeved.html#boop",
+    "title": "I’m Peeved",
+    "section": "boop",
+    "text": "boop"
   }
 ]

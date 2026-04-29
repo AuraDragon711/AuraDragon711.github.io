@@ -22,5 +22,5 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme: [pulse, styles.scss]
 
